@@ -1,7 +1,9 @@
 # SEN-assignment
 
 Name: Damilola Oke Gloria
+
 Matric Number: 23/12318
+
 Department: Computer Science
 
 - My submission forn the assignment
